@@ -1,0 +1,577 @@
+division,year,month,pollution,density,infected,death,temperature,humidity,pressure,class,date,death_rate
+Dhaka ,2020,January,High,High,88,0,19.0,0.8,1017.0,Medium,2020-01-01,0.0
+Dhaka ,2020,February,High,High,17,0,23.0,0.63,1014.0,Low,2020-02-01,0.0
+Dhaka ,2020,March,High,High,21,0,27.0,0.55,1011.0,Low,2020-03-01,0.0
+Dhaka ,2020,April,High,High,20,0,28.0,0.7,1009.0,Low,2020-04-01,0.0
+Dhaka ,2020,May,High,High,10,0,29.0,0.8,1005.0,Low,2020-05-01,0.0
+Dhaka ,2020,June,High,High,17,0,30.0,0.81,1002.0,Low,2020-06-01,0.0
+Dhaka ,2020,July,High,High,15,0,30.0,0.85,1002.0,Low,2020-07-01,0.0
+Dhaka ,2020,August,High,High,31,0,30.0,0.84,1000.0,Medium,2020-08-01,0.0
+Dhaka ,2020,September,High,High,24,0,30.0,0.81,1004.0,Low,2020-09-01,0.0
+Dhaka ,2020,October,High,High,79,1,29.0,0.81,1006.0,Medium,2020-10-01,0.012658227848101266
+Dhaka ,2020,November,High,High,240,4,25.0,0.68,1012.0,High,2020-11-01,0.016666666666666666
+Dhaka ,2020,December,High,High,122,2,21.0,0.72,1013.0,Medium,2020-12-01,0.01639344262295082
+Dhaka ,2021,January,High,High,18,0,21.0,0.67,1013.0,Low,2021-01-01,0.0
+Dhaka ,2021,February,High,High,9,0,26.0,0.53,1009.0,Low,2021-02-01,0.0
+Dhaka ,2021,March,High,High,9,0,27.0,0.76,1010.0,Low,2021-03-01,0.0
+Dhaka ,2021,April,High,High,3,0,28.0,0.68,1006.0,Low,2021-04-01,0.0
+Dhaka ,2021,May,High,High,23,1,29.0,0.81,1003.0,Medium,2021-05-01,0.043478260869565216
+Dhaka ,2021,June,High,High,141,3,29.0,0.82,1000.0,High,2021-06-01,0.02127659574468085
+Dhaka ,2021,July,High,High,1056,10,30.0,0.83,999.9,High,2021-07-01,0.00946969696969697
+Dhaka ,2021,August,High,High,3674,18,30.0,0.8,1001.0,High,2021-08-01,0.004899292324442025
+Dhaka ,2021,September,High,High,3102,15,28.0,0.73,1004.0,High,2021-09-01,0.004835589941972921
+Dhaka ,2021,October,High,High,2462,10,26.0,0.82,1008.0,High,2021-10-01,0.004061738424045491
+Dhaka ,2021,November,High,High,1610,11,22.0,0.72,1012.0,High,2021-11-01,0.0068322981366459624
+Dhaka ,2021,December,High,High,543,2,19.0,0.92,1013.0,High,2021-12-01,0.003683241252302026
+Dhaka ,2022,January,High,High,60,0,20.0,0.73,1017.0,Medium,2022-01-01,0.0
+Dhaka ,2022,February,High,High,10,0,20.0,0.53,1014.0,Low,2022-02-01,0.0
+Dhaka ,2022,March,High,High,11,0,26.0,0.6,1007.0,Low,2022-03-01,0.0
+Dhaka ,2022,April,High,High,19,0,28.0,0.59,1006.0,Low,2022-04-01,0.0
+Dhaka ,2022,May,High,High,160,0,28.0,0.59,1006.0,Medium,2022-05-01,0.0
+Dhaka ,2022,June,High,High,715,1,29.0,0.73,1003.0,High,2022-06-01,0.0013986013986013986
+Dhaka ,2022,July,High,High,1298,3,29.0,0.8,1000.0,High,2022-07-01,0.0023112480739599386
+Dhaka ,2022,August,High,High,2873,6,28.0,0.8,999.0,High,2022-08-01,0.002088409328228333
+Dhaka ,2022,September,High,High,7422,17,28.0,0.79,1001.0,High,2022-09-01,0.002290487739153867
+Dhaka ,2022,October,High,High,15203,69,28.0,0.79,1011.0,High,2022-10-01,0.0045385779122541605
+Dhaka ,2022,November,High,High,12386,61,25.0,0.64,1012.0,High,2022-11-01,0.0049249152268690454
+Dhaka ,2022,December,High,High,5822,18,22.0,0.69,1013.0,High,2022-12-01,0.003091721058055651
+Dhaka ,2023,January,High,High,330,3,20.0,0.73,1017.0,High,2023-01-01,0.00909090909090909
+Dhaka ,2023,February,High,High,92,3,22.0,0.45,1012.0,High,2023-02-01,0.03260869565217391
+Dhaka ,2023,March,High,High,76,0,27.0,0.55,1007.0,Medium,2023-03-01,0.0
+Dhaka ,2023,April,High,High,94,2,28.0,0.59,1006.0,Medium,2023-04-01,0.02127659574468085
+Dhaka ,2023,May,High,High,895,2,28.0,0.73,1004.0,High,2023-05-01,0.0022346368715083797
+Dhaka ,2023,June,High,High,4900,27,29.0,0.82,1000.0,High,2023-06-01,0.005510204081632653
+Dhaka ,2023,July,High,High,27987,164,29.0,0.85,1000.0,High,2023-07-01,0.005859863508057312
+Dhaka ,2023,August,High,High,40615,293,29.0,0.81,1001.0,High,2023-08-01,0.0072140834666994955
+Dhaka ,2023,September,High,High,40533,265,29.0,0.76,1004.0,High,2023-09-01,0.006537882712851257
+Dhaka ,2023,October,High,High,40615,256,29.0,0.73,1011.0,High,2023-10-01,0.006303089991382494
+Dhaka ,2023,November,High,High,18025,162,26.0,0.65,1014.0,High,2023-11-01,0.0089875173370319
+Dhaka ,2023,December,High,High,4210,46,22.0,0.74,1016.0,High,2023-12-01,0.010926365795724466
+Dhaka ,2024,January,High,High,503,8,18.0,0.75,1017.0,High,2024-01-01,0.015904572564612324
+Dhaka ,2024,February,High,High,164,2,23.0,0.57,1016.0,Medium,2024-02-01,0.012195121951219513
+Dhaka ,2024,March,High,High,148,2,27.0,0.6,1013.0,Medium,2024-03-01,0.013513513513513514
+Dhaka ,2024,April,High,High,240,1,32.0,0.59,1006.0,Medium,2024-04-01,0.004166666666666667
+Dhaka ,2024,May,High,High,307,11,31.0,0.68,1005.0,High,2024-05-01,0.035830618892508145
+Dhaka ,2024,June,High,High,420,8,31.0,0.78,1002.0,High,2024-06-01,0.01904761904761905
+Dhaka ,2024,July,High,High,1323,7,30.0,0.78,1000.0,High,2024-07-01,0.005291005291005291
+Dhaka ,2024,August,High,High,3425,19,29.0,0.82,1004.0,High,2024-08-01,0.005547445255474452
+Dhaka ,2024,September,High,High,10839,58,30.0,0.78,1004.0,High,2024-09-01,0.005351047144570532
+Dhaka ,2024,October,High,High,17302,87,29.0,0.78,1009.0,High,2024-10-01,0.005028320425384349
+Dhaka ,2024,November,High,High,17785,134,26.0,0.61,1013.0,High,2024-11-01,0.007534439134101771
+Dhaka ,2024,December,High,High,5661,57,22.0,0.62,1015.0,High,2024-12-01,0.010068892421833599
+Dhaka ,2025,January,High,High,634,8,20.0,0.68,1015.0,High,2025-01-01,0.012618296529968454
+Dhaka ,2025,February,High,High,146,1,24.0,0.58,1014.0,Medium,2025-02-01,0.00684931506849315
+Dhaka ,2025,March,High,High,135,0,29.0,0.52,1010.0,Medium,2025-03-01,0.0
+Dhaka ,2025,April,High,High,194,3,30.0,0.64,1009.0,High,2025-04-01,0.015463917525773196
+Dhaka ,2025,May,High,High,505,3,30.0,0.71,1004.0,High,2025-05-01,0.005940594059405941
+Dhaka ,2025,June,High,High,1630,7,30.0,0.76,1001.0,High,2025-06-01,0.004294478527607362
+Dhaka ,2025,July,High,High,3801,25,29.0,0.83,1000.0,High,2025-07-01,0.006577216521967903
+Dhaka ,2025,August,High,High,4740,27,29.0,0.8,1005.0,High,2025-08-01,0.00569620253164557
+Dhaka ,2025,September,High,High,7858,48,30.0,0.78,1005.0,High,2025-09-01,0.006108424535505218
+Dhaka ,2025,October,High,High,11777,56,29.0,0.74,1010.0,High,2025-10-01,0.00475503099261272
+Dhaka ,2025,November,High,High,13180,83,26.0,0.64,1013.0,High,2025-11-01,0.0062974203338391505
+Dhaka ,2025,December,High,High,3637,29,23.0,0.56,1016.0,High,2025-12-01,0.007973604619191641
+Mymensingh,2020,January,Very Low,High,11,0,19.0,0.85,1018.0,Low,2020-01-01,0.0
+Mymensingh,2020,February,Very Low,High,3,0,22.0,0.73,1015.0,Low,2020-02-01,0.0
+Mymensingh,2020,March,Very Low,High,0,0,25.0,0.63,1012.0,Very Low,2020-03-01,0.0
+Mymensingh,2020,April,Very Low,High,1,0,27.0,0.7,1009.0,Very Low,2020-04-01,0.0
+Mymensingh,2020,May,Very Low,High,0,0,28.0,0.8,1005.0,Very Low,2020-05-01,0.0
+Mymensingh,2020,June,Very Low,High,1,0,30.0,0.83,1002.0,Very Low,2020-06-01,0.0
+Mymensingh,2020,July,Very Low,High,2,0,30.0,0.84,1002.0,Low,2020-07-01,0.0
+Mymensingh,2020,August,Very Low,High,7,0,30.0,0.8,1000.0,Low,2020-08-01,0.0
+Mymensingh,2020,September,Very Low,High,3,0,29.0,0.85,1004.0,Low,2020-09-01,0.0
+Mymensingh,2020,October,Very Low,High,13,0,29.0,0.81,1006.0,Low,2020-10-01,0.0
+Mymensingh,2020,November,Very Low,High,31,0,25.0,0.68,1014.0,Medium,2020-11-01,0.0
+Mymensingh,2020,December,Very Low,High,8,0,19.0,0.78,1014.0,Low,2020-12-01,0.0
+Mymensingh,2021,January,Very Low,High,2,0,19.0,0.73,1014.0,Low,2021-01-01,0.0
+Mymensingh,2021,February,Very Low,High,0,0,25.0,0.55,1010.0,Very Low,2021-02-01,0.0
+Mymensingh,2021,March,Very Low,High,1,0,26.0,0.53,1011.0,Very Low,2021-03-01,0.0
+Mymensingh,2021,April,Very Low,High,0,0,28.0,0.64,1007.0,Very Low,2021-04-01,0.0
+Mymensingh,2021,May,Very Low,High,2,0,29.0,0.73,1004.0,Low,2021-05-01,0.0
+Mymensingh,2021,June,Very Low,High,13,0,29.0,0.81,1001.0,Low,2021-06-01,0.0
+Mymensingh,2021,July,Very Low,High,106,1,29.0,0.85,1001.0,Medium,2021-07-01,0.009433962264150943
+Mymensingh,2021,August,Very Low,High,357,2,29.0,0.84,1002.0,Medium,2021-08-01,0.0056022408963585435
+Mymensingh,2021,September,Very Low,High,424,1,29.0,0.84,1005.0,Medium,2021-09-01,0.0023584905660377358
+Mymensingh,2021,October,Very Low,High,253,0,27.0,0.81,1009.0,Medium,2021-10-01,0.0
+Mymensingh,2021,November,Very Low,High,165,0,22.0,0.72,1013.0,Medium,2021-11-01,0.0
+Mymensingh,2021,December,Very Low,High,55,0,20.0,0.82,1015.0,Medium,2021-12-01,0.0
+Mymensingh,2022,January,Very Low,High,1,0,18.0,0.79,1019.0,Very Low,2022-01-01,0.0
+Mymensingh,2022,February,Very Low,High,0,0,21.0,0.59,1014.0,Very Low,2022-02-01,0.0
+Mymensingh,2022,March,Very Low,High,1,0,26.0,0.56,1010.0,Very Low,2022-03-01,0.0
+Mymensingh,2022,April,Very Low,High,0,0,28.0,0.64,1008.0,Very Low,2022-04-01,0.0
+Mymensingh,2022,May,Very Low,High,2,0,29.0,0.73,1005.0,Low,2022-05-01,0.0
+Mymensingh,2022,June,Very Low,High,6,0,29.0,0.81,1001.0,Low,2022-06-01,0.0
+Mymensingh,2022,July,Very Low,High,16,0,29.0,0.85,1001.0,Low,2022-07-01,0.0
+Mymensingh,2022,August,Very Low,High,27,0,29.0,0.84,1002.0,Low,2022-08-01,0.0
+Mymensingh,2022,September,Very Low,High,120,0,28.0,0.84,1005.0,Medium,2022-09-01,0.0
+Mymensingh,2022,October,Very Low,High,380,4,25.0,0.81,1011.0,High,2022-10-01,0.010526315789473684
+Mymensingh,2022,November,Very Low,High,387,2,24.0,0.72,1013.0,Medium,2022-11-01,0.00516795865633075
+Mymensingh,2022,December,Very Low,High,80,0,20.0,0.77,1014.0,Medium,2022-12-01,0.0
+Mymensingh,2023,January,Very Low,High,7,0,17.0,0.79,1016.0,Low,2023-01-01,0.0
+Mymensingh,2023,February,Very Low,High,2,0,22.0,0.74,1013.0,Low,2023-02-01,0.0
+Mymensingh,2023,March,Very Low,High,1,0,27.0,0.68,1009.0,Very Low,2023-03-01,0.0
+Mymensingh,2023,April,Very Low,High,1,0,30.0,0.59,1008.0,Very Low,2023-04-01,0.0
+Mymensingh,2023,May,Very Low,High,12,0,29.0,0.69,1007.0,Low,2023-05-01,0.0
+Mymensingh,2023,June,Very Low,High,95,4,30.0,0.76,1002.0,High,2023-06-01,0.042105263157894736
+Mymensingh,2023,July,Very Low,High,1176,3,31.0,0.8,1003.0,High,2023-07-01,0.002551020408163265
+Mymensingh,2023,August,Very Low,High,2273,4,30.0,0.82,1002.0,High,2023-08-01,0.0017597888253409592
+Mymensingh,2023,September,Very Low,High,2112,4,31.0,0.79,1005.0,High,2023-09-01,0.001893939393939394
+Mymensingh,2023,October,Very Low,High,2273,3,28.0,0.79,1010.0,High,2023-10-01,0.0013198416190057193
+Mymensingh,2023,November,Very Low,High,930,2,25.0,0.71,1014.0,High,2023-11-01,0.002150537634408602
+Mymensingh,2023,December,Very Low,High,291,3,21.0,0.78,1016.0,High,2023-12-01,0.010309278350515464
+Mymensingh,2024,January,Very Low,High,17,0,16.0,0.83,1017.0,Low,2024-01-01,0.0
+Mymensingh,2024,February,Very Low,High,6,0,21.0,0.68,1016.0,Low,2024-02-01,0.0
+Mymensingh,2024,March,Very Low,High,7,0,25.0,0.67,1012.0,Low,2024-03-01,0.0
+Mymensingh,2024,April,Very Low,High,15,0,32.0,0.56,1006.0,Low,2024-04-01,0.0
+Mymensingh,2024,May,Very Low,High,16,0,30.0,0.73,1004.0,Low,2024-05-01,0.0
+Mymensingh,2024,June,Very Low,High,15,0,30.0,0.83,1001.0,Low,2024-06-01,0.0
+Mymensingh,2024,July,Very Low,High,31,0,31.0,0.8,1000.0,Medium,2024-07-01,0.0
+Mymensingh,2024,August,Very Low,High,147,1,30.0,0.83,1004.0,Medium,2024-08-01,0.006802721088435374
+Mymensingh,2024,September,Very Low,High,489,0,30.0,0.81,1004.0,High,2024-09-01,0.0
+Mymensingh,2024,October,Very Low,High,968,2,28.0,0.83,1009.0,High,2024-10-01,0.002066115702479339
+Mymensingh,2024,November,Very Low,High,1217,10,25.0,0.73,1013.0,High,2024-11-01,0.008216926869350863
+Mymensingh,2024,December,Very Low,High,316,3,20.0,0.73,1015.0,High,2024-12-01,0.00949367088607595
+Mymensingh,2025,January,Very Low,High,31,1,19.0,0.77,1015.0,Medium,2025-01-01,0.03225806451612903
+Mymensingh,2025,February,Very Low,High,8,0,22.0,0.65,1014.0,Low,2025-02-01,0.0
+Mymensingh,2025,March,Very Low,High,8,0,27.0,0.6,1010.0,Low,2025-03-01,0.0
+Mymensingh,2025,April,Very Low,High,16,0,29.0,0.69,1008.0,Low,2025-04-01,0.0
+Mymensingh,2025,May,Very Low,High,25,0,29.0,0.77,1004.0,Low,2025-05-01,0.0
+Mymensingh,2025,June,Very Low,High,48,0,30.0,0.79,1001.0,Medium,2025-06-01,0.0
+Mymensingh,2025,July,Very Low,High,174,0,30.0,0.83,1000.0,Medium,2025-07-01,0.0
+Mymensingh,2025,August,Very Low,High,252,0,29.0,0.84,1004.0,Medium,2025-08-01,0.0
+Mymensingh,2025,September,Very Low,High,521,5,30.0,0.81,1005.0,High,2025-09-01,0.009596928982725527
+Mymensingh,2025,October,Very Low,High,1120,6,29.0,0.79,1010.0,High,2025-10-01,0.005357142857142857
+Mymensingh,2025,November,Very Low,High,1586,10,24.0,0.72,1013.0,High,2025-11-01,0.006305170239596469
+Mymensingh,2025,December,Very Low,High,454,4,21.0,0.7,1016.0,Medium,2025-12-01,0.00881057268722467
+Chattogram,2020,January,High,Low,43,0,20.0,0.769893314366998,1014.0,Medium,2020-01-01,0.0
+Chattogram,2020,February,High,Low,7,0,17.0,0.770763394973921,1016.0,Low,2020-02-01,0.0
+Chattogram,2020,March,High,Low,4,0,22.0,0.771633475580844,1013.0,Low,2020-03-01,0.0
+Chattogram,2020,April,High,Low,3,0,27.0,0.772503556187766,1009.0,Low,2020-04-01,0.0
+Chattogram,2020,May,High,Low,0,0,30.0,0.773373636794689,1008.0,Very Low,2020-05-01,0.0
+Chattogram,2020,June,High,Low,1,0,29.0,0.774243717401612,1007.0,Very Low,2020-06-01,0.0
+Chattogram,2020,July,High,Low,3,0,30.0,0.775113798008535,1002.0,Low,2020-07-01,0.0
+Chattogram,2020,August,High,Low,14,0,31.0,0.775983878615457,1003.0,Low,2020-08-01,0.0
+Chattogram,2020,September,High,Low,10,0,30.0,0.77685395922238,1002.0,Low,2020-09-01,0.0
+Chattogram,2020,October,High,Low,27,0,31.0,0.777724039829303,1005.0,Low,2020-10-01,0.0
+Chattogram,2020,November,High,Low,112,0,28.0,0.778594120436225,1010.0,Medium,2020-11-01,0.0
+Chattogram,2020,December,High,Low,51,0,25.0,0.779464201043148,1014.0,Medium,2020-12-01,0.0
+Chattogram,2021,January,High,Low,5,0,21.0,0.780334281650071,1016.0,Low,2021-01-01,0.0
+Chattogram,2021,February,High,Low,0,0,16.0,0.781204362256994,1017.0,Very Low,2021-02-01,0.0
+Chattogram,2021,March,High,Low,1,0,21.0,0.782074442863916,1016.0,Very Low,2021-03-01,0.0
+Chattogram,2021,April,High,Low,0,0,25.0,0.782944523470839,1012.0,Very Low,2021-04-01,0.0
+Chattogram,2021,May,High,Low,7,0,32.0,0.783814604077762,1006.0,Low,2021-05-01,0.0
+Chattogram,2021,June,High,Low,43,1,30.0,0.784684684684684,1004.0,Medium,2021-06-01,0.023255813953488372
+Chattogram,2021,July,High,Low,390,3,30.0,0.785554765291607,1001.0,High,2021-07-01,0.007692307692307693
+Chattogram,2021,August,High,Low,1170,3,31.0,0.78642484589853,1000.0,High,2021-08-01,0.002564102564102564
+Chattogram,2021,September,High,Low,1378,3,30.0,0.787294926505453,1004.0,High,2021-09-01,0.0021770682148040637
+Chattogram,2021,October,High,Low,933,2,30.0,0.788165007112375,1004.0,High,2021-10-01,0.0021436227224008574
+Chattogram,2021,November,High,Low,609,1,28.0,0.789035087719298,1009.0,High,2021-11-01,0.0016420361247947454
+Chattogram,2021,December,High,Low,207,0,25.0,0.789905168326221,1013.0,Medium,2021-12-01,0.0
+Chattogram,2022,January,High,Low,56,0,20.0,0.790775248933143,1015.0,Medium,2022-01-01,0.0
+Chattogram,2022,February,High,Low,3,0,23.0,0.68,1013.0,Low,2022-02-01,0.0
+Chattogram,2022,March,High,Low,0,0,26.0,0.71,1011.0,Very Low,2022-03-01,0.0
+Chattogram,2022,April,High,Low,7,0,28.0,0.79,1009.0,Low,2022-04-01,0.0
+Chattogram,2022,May,High,Low,1,0,28.0,0.78,1006.0,Very Low,2022-05-01,0.0
+Chattogram,2022,June,High,Low,16,0,28.0,0.87,1004.0,Low,2022-06-01,0.0
+Chattogram,2022,July,High,Low,223,6,27.0,0.86,1000.0,High,2022-07-01,0.026905829596412557
+Chattogram,2022,August,High,Low,530,5,27.0,0.87,1002.0,High,2022-08-01,0.009433962264150943
+Chattogram,2022,September,High,Low,1182,13,29.0,0.81,1006.0,High,2022-09-01,0.010998307952622674
+Chattogram,2022,October,High,Low,2679,14,27.0,0.78,1011.0,High,2022-10-01,0.005225830533781261
+Chattogram,2022,November,High,Low,3253,22,26.0,0.7,1012.0,High,2022-11-01,0.006762988011066708
+Chattogram,2022,December,High,Low,1159,9,23.0,0.71,1013.0,High,2022-12-01,0.007765314926660914
+Chattogram,2023,January,High,Low,140,3,22.0,0.61,1015.0,High,2023-01-01,0.02142857142857143
+Chattogram,2023,February,High,Low,39,0,25.0,0.63,1013.0,Medium,2023-02-01,0.0
+Chattogram,2023,March,High,Low,17,0,28.0,0.64,1012.0,Low,2023-03-01,0.0
+Chattogram,2023,April,High,Low,33,0,30.0,0.69,1008.0,Medium,2023-04-01,0.0
+Chattogram,2023,May,High,Low,81,0,30.0,0.74,1007.0,Medium,2023-05-01,0.0
+Chattogram,2023,June,High,Low,482,0,30.0,0.84,1004.0,High,2023-06-01,0.0
+Chattogram,2023,July,High,Low,5857,21,30.0,0.82,1004.0,High,2023-07-01,0.0035854533037391156
+Chattogram,2023,August,High,Low,10784,19,29.0,0.89,1004.0,High,2023-08-01,0.0017618694362017803
+Chattogram,2023,September,High,Low,12043,26,30.0,0.87,1005.0,High,2023-09-01,0.0021589304990450886
+Chattogram,2023,October,High,Low,10784,33,29.0,0.82,1011.0,High,2023-10-01,0.003060089020771513
+Chattogram,2023,November,High,Low,4574,19,27.0,0.79,1013.0,High,2023-11-01,0.004153913423699169
+Chattogram,2023,December,High,Low,1426,7,23.0,0.77,1015.0,High,2023-12-01,0.004908835904628331
+Chattogram,2024,January,High,Low,284,2,20.0,0.73,1016.0,Medium,2024-01-01,0.007042253521126761
+Chattogram,2024,February,High,Low,110,0,24.0,0.67,1015.0,Medium,2024-02-01,0.0
+Chattogram,2024,March,High,Low,112,2,27.0,0.62,1013.0,Medium,2024-03-01,0.017857142857142856
+Chattogram,2024,April,High,Low,165,0,31.0,0.74,1007.0,Medium,2024-04-01,0.0
+Chattogram,2024,May,High,Low,155,0,30.0,0.81,1006.0,Medium,2024-05-01,0.0
+Chattogram,2024,June,High,Low,196,0,30.0,0.86,1003.0,Medium,2024-06-01,0.0
+Chattogram,2024,July,High,Low,860,4,30.0,0.86,1001.0,High,2024-07-01,0.004651162790697674
+Chattogram,2024,August,High,Low,1779,3,28.0,0.89,1005.0,High,2024-08-01,0.0016863406408094434
+Chattogram,2024,September,High,Low,3046,11,30.0,0.83,1004.0,High,2024-09-01,0.0036112934996717005
+Chattogram,2024,October,High,Low,4056,9,30.0,0.78,1009.0,High,2024-10-01,0.0022189349112426036
+Chattogram,2024,November,High,Low,3570,17,27.0,0.66,1012.0,High,2024-11-01,0.004761904761904762
+Chattogram,2024,December,High,Low,1162,7,23.0,0.62,1014.0,High,2024-12-01,0.006024096385542169
+Chattogram,2025,January,High,Low,192,1,22.0,0.69,1014.0,Medium,2025-01-01,0.005208333333333333
+Chattogram,2025,February,High,Low,88,0,25.0,0.62,1013.0,Medium,2025-02-01,0.0
+Chattogram,2025,March,High,Low,80,0,28.0,0.7,1011.0,Medium,2025-03-01,0.0
+Chattogram,2025,April,High,Low,129,1,29.0,0.75,1009.0,Medium,2025-04-01,0.007751937984496124
+Chattogram,2025,May,High,Low,260,0,30.0,0.78,1005.0,Medium,2025-05-01,0.0
+Chattogram,2025,June,High,Low,777,1,29.0,0.84,1002.0,High,2025-06-01,0.001287001287001287
+Chattogram,2025,July,High,Low,1487,8,29.0,0.88,1001.0,High,2025-07-01,0.005379959650302623
+Chattogram,2025,August,High,Low,1707,6,29.0,0.85,1005.0,High,2025-08-01,0.0035149384885764497
+Chattogram,2025,September,High,Low,2467,5,30.0,0.8,1006.0,High,2025-09-01,0.002026753141467369
+Chattogram,2025,October,High,Low,2907,2,30.0,0.77,1010.0,High,2025-10-01,0.0006879944960440316
+Chattogram,2025,November,High,Low,3382,6,26.0,0.7,1012.0,High,2025-11-01,0.0017740981667652277
+Chattogram,2025,December,High,Low,1078,2,24.0,0.7,1015.0,High,2025-12-01,0.0018552875695732839
+Barishal,2020,January,Low,Very Low,37,0,18.0,0.88,1017.0,Medium,2020-01-01,0.0
+Barishal,2020,February,Low,Very Low,11,0,21.0,0.72,1015.0,Low,2020-02-01,0.0
+Barishal,2020,March,Low,Very Low,2,0,25.0,0.67,1012.0,Low,2020-03-01,0.0
+Barishal,2020,April,Low,Very Low,1,0,28.0,0.77,1010.0,Very Low,2020-04-01,0.0
+Barishal,2020,May,Low,Very Low,0,0,29.0,0.79,1006.0,Very Low,2020-05-01,0.0
+Barishal,2020,June,Low,Very Low,1,0,29.0,0.88,1003.0,Very Low,2020-06-01,0.0
+Barishal,2020,July,Low,Very Low,2,0,29.0,0.88,1003.0,Low,2020-07-01,0.0
+Barishal,2020,August,Low,Very Low,10,0,29.0,0.88,1001.0,Low,2020-08-01,0.0
+Barishal,2020,September,Low,Very Low,7,0,29.0,0.86,1005.0,Low,2020-09-01,0.0
+Barishal,2020,October,Low,Very Low,21,0,29.0,0.86,1006.0,Low,2020-10-01,0.0
+Barishal,2020,November,Low,Very Low,92,0,24.0,0.79,1013.0,Medium,2020-11-01,0.0
+Barishal,2020,December,Low,Very Low,27,0,19.0,0.8,1014.0,Low,2020-12-01,0.0
+Barishal,2021,January,Low,Very Low,4,0,19.0,0.78,1013.0,Low,2021-01-01,0.0
+Barishal,2021,February,Low,Very Low,0,0,24.0,0.66,1010.0,Very Low,2021-02-01,0.0
+Barishal,2021,March,Low,Very Low,1,0,27.0,0.75,1012.0,Very Low,2021-03-01,0.0
+Barishal,2021,April,Low,Very Low,0,0,28.0,0.73,1007.0,Very Low,2021-04-01,0.0
+Barishal,2021,May,Low,Very Low,6,0,29.0,0.8,1004.0,Low,2021-05-01,0.0
+Barishal,2021,June,Low,Very Low,36,1,28.0,0.86,1001.0,Medium,2021-06-01,0.027777777777777776
+Barishal,2021,July,Low,Very Low,319,3,28.0,0.88,1000.0,High,2021-07-01,0.009404388714733543
+Barishal,2021,August,Low,Very Low,958,4,27.0,0.87,1002.0,High,2021-08-01,0.0041753653444676405
+Barishal,2021,September,Low,Very Low,1024,3,27.0,0.87,1004.0,High,2021-09-01,0.0029296875
+Barishal,2021,October,Low,Very Low,762,3,26.0,0.84,1008.0,High,2021-10-01,0.003937007874015748
+Barishal,2021,November,Low,Very Low,498,0,22.0,0.72,1012.0,High,2021-11-01,0.0
+Barishal,2021,December,Low,Very Low,168,0,19.0,0.92,1013.0,Medium,2021-12-01,0.0
+Barishal,2022,January,Low,Very Low,7,0,19.0,0.76,1018.0,Low,2022-01-01,0.0
+Barishal,2022,February,Low,Very Low,5,0,24.0,0.63,1010.0,Low,2022-02-01,0.0
+Barishal,2022,March,Low,Very Low,0,0,28.0,0.63,1007.0,Very Low,2022-03-01,0.0
+Barishal,2022,April,Low,Very Low,0,0,30.0,0.73,1004.0,Very Low,2022-04-01,0.0
+Barishal,2022,May,Low,Very Low,0,0,30.0,0.8,1001.0,Very Low,2022-05-01,0.0
+Barishal,2022,June,Low,Very Low,0,0,30.0,0.86,1001.0,Very Low,2022-06-01,0.0
+Barishal,2022,July,Low,Very Low,18,0,29.0,0.88,1002.0,Low,2022-07-01,0.0
+Barishal,2022,August,Low,Very Low,44,0,29.0,0.87,1005.0,Medium,2022-08-01,0.0
+Barishal,2022,September,Low,Very Low,329,4,29.0,0.87,1009.0,High,2022-09-01,0.0121580547112462
+Barishal,2022,October,Low,Very Low,1310,1,27.0,0.85,1010.0,High,2022-10-01,0.0007633587786259542
+Barishal,2022,November,Low,Very Low,1213,7,23.0,0.78,1012.0,High,2022-11-01,0.005770816158285243
+Barishal,2022,December,Low,Very Low,241,1,19.0,0.82,1013.0,Medium,2022-12-01,0.004149377593360996
+Barishal,2023,January,Low,Very Low,53,0,18.0,0.82,1015.0,Medium,2023-01-01,0.0
+Barishal,2023,February,Low,Very Low,27,0,22.0,0.74,1013.0,Low,2023-02-01,0.0
+Barishal,2023,March,Low,Very Low,13,0,26.0,0.7,1012.0,Low,2023-03-01,0.0
+Barishal,2023,April,Low,Very Low,11,0,29.0,0.7,1008.0,Low,2023-04-01,0.0
+Barishal,2023,May,Low,Very Low,40,0,29.0,0.76,1007.0,Medium,2023-05-01,0.0
+Barishal,2023,June,Low,Very Low,272,1,30.0,0.85,1002.0,Medium,2023-06-01,0.003676470588235294
+Barishal,2023,July,Low,Very Low,4877,0,30.0,0.86,1003.0,High,2023-07-01,0.0
+Barishal,2023,August,Low,Very Low,8457,40,29.0,0.91,1003.0,High,2023-08-01,0.004729809625162587
+Barishal,2023,September,Low,Very Low,10712,60,29.0,0.89,1004.0,High,2023-09-01,0.005601194921583271
+Barishal,2023,October,Low,Very Low,8457,29,27.0,0.85,1010.0,High,2023-10-01,0.003429111978242876
+Barishal,2023,November,Low,Very Low,4457,42,24.0,0.82,1014.0,High,2023-11-01,0.009423378954453668
+Barishal,2023,December,Low,Very Low,876,16,20.0,0.85,1015.0,High,2023-12-01,0.0182648401826484
+Barishal,2024,January,Low,Very Low,123,4,17.0,0.83,1016.0,High,2024-01-01,0.032520325203252036
+Barishal,2024,February,Low,Very Low,50,1,22.0,0.72,1015.0,Medium,2024-02-01,0.02
+Barishal,2024,March,Low,Very Low,28,1,26.0,0.67,1013.0,Medium,2024-03-01,0.03571428571428571
+Barishal,2024,April,Low,Very Low,62,1,31.0,0.71,1006.0,Medium,2024-04-01,0.016129032258064516
+Barishal,2024,May,Low,Very Low,135,1,30.0,0.78,1005.0,Medium,2024-05-01,0.007407407407407408
+Barishal,2024,June,Low,Very Low,96,0,31.0,0.82,1002.0,Medium,2024-06-01,0.0
+Barishal,2024,July,Low,Very Low,296,1,30.0,0.86,1000.0,Medium,2024-07-01,0.0033783783783783786
+Barishal,2024,August,Low,Very Low,609,1,28.0,0.92,1004.0,High,2024-08-01,0.0016420361247947454
+Barishal,2024,September,Low,Very Low,1327,7,29.0,0.86,1004.0,High,2024-09-01,0.0052750565184626974
+Barishal,2024,October,Low,Very Low,2513,16,28.0,0.86,1009.0,High,2024-10-01,0.006366892160764027
+Barishal,2024,November,Low,Very Low,2661,22,25.0,0.78,1013.0,High,2024-11-01,0.008267568583239383
+Barishal,2024,December,Low,Very Low,873,9,20.0,0.76,1014.0,High,2024-12-01,0.010309278350515464
+Barishal,2025,January,Low,Very Low,184,0,19.0,0.81,1015.0,Medium,2025-01-01,0.0
+Barishal,2025,February,Low,Very Low,95,0,23.0,0.74,1014.0,Medium,2025-02-01,0.0
+Barishal,2025,March,Low,Very Low,85,0,27.0,0.69,1010.0,Medium,2025-03-01,0.0
+Barishal,2025,April,Low,Very Low,343,3,28.0,0.77,1009.0,High,2025-04-01,0.008746355685131196
+Barishal,2025,May,Low,Very Low,920,0,29.0,0.79,1004.0,High,2025-05-01,0.0
+Barishal,2025,June,Low,Very Low,2965,9,29.0,0.86,1002.0,High,2025-06-01,0.0030354131534569982
+Barishal,2025,July,Low,Very Low,3351,5,28.0,0.89,1000.0,High,2025-07-01,0.0014920919128618322
+Barishal,2025,August,Low,Very Low,2190,2,29.0,0.86,1005.0,High,2025-08-01,0.0009132420091324201
+Barishal,2025,September,Low,Very Low,3210,14,30.0,0.78,1005.0,High,2025-09-01,0.004361370716510903
+Barishal,2025,October,Low,Very Low,3894,8,29.0,0.74,1010.0,High,2025-10-01,0.002054442732408834
+Barishal,2025,November,Low,Very Low,3415,7,26.0,0.64,1013.0,High,2025-11-01,0.0020497803806734994
+Barishal,2025,December,Low,Very Low,896,3,23.0,0.56,1016.0,High,2025-12-01,0.0033482142857142855
+Sylhet,2020,January,Low,Low,0,0,19.0,0.81,1017.0,Very Low,2020-01-01,0.0
+Sylhet,2020,February,Low,Low,0,0,22.0,0.63,1015.0,Very Low,2020-02-01,0.0
+Sylhet,2020,March,Low,Low,0,0,25.0,0.61,1012.0,Very Low,2020-03-01,0.0
+Sylhet,2020,April,Low,Low,0,0,26.0,0.66,1010.0,Very Low,2020-04-01,0.0
+Sylhet,2020,May,Low,Low,0,0,27.0,0.81,1007.0,Very Low,2020-05-01,0.0
+Sylhet,2020,June,Low,Low,0,0,28.0,0.88,1004.0,Very Low,2020-06-01,0.0
+Sylhet,2020,July,Low,Low,0,0,28.0,0.89,1003.0,Very Low,2020-07-01,0.0
+Sylhet,2020,August,Low,Low,2,0,29.0,0.84,1002.0,Low,2020-08-01,0.0
+Sylhet,2020,September,Low,Low,0,0,28.0,0.87,1005.0,Very Low,2020-09-01,0.0
+Sylhet,2020,October,Low,Low,6,0,28.0,0.83,1007.0,Low,2020-10-01,0.0
+Sylhet,2020,November,Low,Low,13,0,24.0,0.72,1013.0,Low,2020-11-01,0.0
+Sylhet,2020,December,Low,Low,2,0,20.0,0.76,1014.0,Low,2020-12-01,0.0
+Sylhet,2021,January,Low,Low,0,0,20.0,0.72,1013.0,Very Low,2021-01-01,0.0
+Sylhet,2021,February,Low,Low,0,0,24.0,0.63,1010.0,Very Low,2021-02-01,0.0
+Sylhet,2021,March,Low,Low,0,0,26.0,0.69,1012.0,Very Low,2021-03-01,0.0
+Sylhet,2021,April,Low,Low,0,0,27.0,0.72,1008.0,Very Low,2021-04-01,0.0
+Sylhet,2021,May,Low,Low,1,0,28.0,0.79,1007.0,Very Low,2021-05-01,0.0
+Sylhet,2021,June,Low,Low,6,0,29.0,0.85,1002.0,Low,2021-06-01,0.0
+Sylhet,2021,July,Low,Low,53,0,29.0,0.85,1001.0,Medium,2021-07-01,0.0
+Sylhet,2021,August,Low,Low,159,0,29.0,0.84,1002.0,Medium,2021-08-01,0.0
+Sylhet,2021,September,Low,Low,190,0,28.0,0.85,1006.0,Medium,2021-09-01,0.0
+Sylhet,2021,October,Low,Low,126,0,27.0,0.81,1010.0,Medium,2021-10-01,0.0
+Sylhet,2021,November,Low,Low,82,0,23.0,0.77,1013.0,Medium,2021-11-01,0.0
+Sylhet,2021,December,Low,Low,27,0,19.0,0.74,1012.0,Low,2021-12-01,0.0
+Sylhet,2022,January,Low,Low,0,0,20.0,0.71,1018.0,Very Low,2022-01-01,0.0
+Sylhet,2022,February,Low,Low,0,0,20.0,0.67,1013.0,Very Low,2022-02-01,0.0
+Sylhet,2022,March,Low,Low,0,0,23.0,0.68,1011.0,Very Low,2022-03-01,0.0
+Sylhet,2022,April,Low,Low,0,0,25.0,0.81,1009.0,Very Low,2022-04-01,0.0
+Sylhet,2022,May,Low,Low,0,0,26.0,0.86,1006.0,Very Low,2022-05-01,0.0
+Sylhet,2022,June,Low,Low,0,0,27.0,0.88,1002.0,Very Low,2022-06-01,0.0
+Sylhet,2022,July,Low,Low,0,0,29.0,0.88,1002.0,Very Low,2022-07-01,0.0
+Sylhet,2022,August,Low,Low,1,0,28.0,0.87,1003.0,Very Low,2022-08-01,0.0
+Sylhet,2022,September,Low,Low,8,0,27.0,0.86,1006.0,Low,2022-09-01,0.0
+Sylhet,2022,October,Low,Low,58,0,27.0,0.82,1009.0,Medium,2022-10-01,0.0
+Sylhet,2022,November,Low,Low,32,0,24.0,0.72,1012.0,Medium,2022-11-01,0.0
+Sylhet,2022,December,Low,Low,26,0,21.0,0.77,1013.0,Low,2022-12-01,0.0
+Sylhet,2023,January,Low,Low,3,0,19.0,0.72,1015.0,Low,2023-01-01,0.0
+Sylhet,2023,February,Low,Low,0,0,21.0,0.67,1013.0,Very Low,2023-02-01,0.0
+Sylhet,2023,March,Low,Low,0,0,24.0,0.68,1012.0,Very Low,2023-03-01,0.0
+Sylhet,2023,April,Low,Low,0,0,27.0,0.69,1009.0,Very Low,2023-04-01,0.0
+Sylhet,2023,May,Low,Low,1,0,28.0,0.74,1007.0,Very Low,2023-05-01,0.0
+Sylhet,2023,June,Low,Low,37,0,28.0,0.83,1003.0,Medium,2023-06-01,0.0
+Sylhet,2023,July,Low,Low,383,0,29.0,0.84,1004.0,Medium,2023-07-01,0.0
+Sylhet,2023,August,Low,Low,507,0,28.0,0.87,1003.0,High,2023-08-01,0.0
+Sylhet,2023,September,Low,Low,257,1,30.0,0.81,1005.0,Medium,2023-09-01,0.0038910505836575876
+Sylhet,2023,October,Low,Low,507,0,27.0,0.82,1011.0,High,2023-10-01,0.0
+Sylhet,2023,November,Low,Low,66,0,25.0,0.73,1014.0,Medium,2023-11-01,0.0
+Sylhet,2023,December,Low,Low,16,0,21.0,0.76,1015.0,Low,2023-12-01,0.0
+Sylhet,2024,January,Low,Low,5,0,19.0,0.79,1016.0,Low,2024-01-01,0.0
+Sylhet,2024,February,Low,Low,1,0,21.0,0.69,1016.0,Very Low,2024-02-01,0.0
+Sylhet,2024,March,Low,Low,0,0,25.0,0.63,1013.0,Very Low,2024-03-01,0.0
+Sylhet,2024,April,Low,Low,3,0,28.0,0.75,1007.0,Low,2024-04-01,0.0
+Sylhet,2024,May,Low,Low,3,0,28.0,0.77,1006.0,Low,2024-05-01,0.0
+Sylhet,2024,June,Low,Low,1,0,28.0,0.89,1003.0,Very Low,2024-06-01,0.0
+Sylhet,2024,July,Low,Low,0,0,30.0,0.84,1001.0,Very Low,2024-07-01,0.0
+Sylhet,2024,August,Low,Low,0,0,29.0,0.86,1005.0,Very Low,2024-08-01,0.0
+Sylhet,2024,September,Low,Low,20,0,30.0,0.8,1004.0,Low,2024-09-01,0.0
+Sylhet,2024,October,Low,Low,121,0,27.0,0.84,1010.0,Medium,2024-10-01,0.0
+Sylhet,2024,November,Low,Low,0,0,25.0,0.75,1013.0,Very Low,2024-11-01,0.0
+Sylhet,2024,December,Low,Low,47,0,21.0,0.75,1014.0,Medium,2024-12-01,0.0
+Sylhet,2025,January,Low,Low,6,0,20.0,0.75,1014.0,Low,2025-01-01,0.0
+Sylhet,2025,February,Low,Low,0,0,22.0,0.64,1014.0,Very Low,2025-02-01,0.0
+Sylhet,2025,March,Low,Low,6,0,26.0,0.63,1010.0,Low,2025-03-01,0.0
+Sylhet,2025,April,Low,Low,0,0,27.0,0.78,1009.0,Very Low,2025-04-01,0.0
+Sylhet,2025,May,Low,Low,11,0,28.0,0.82,1005.0,Low,2025-05-01,0.0
+Sylhet,2025,June,Low,Low,13,0,29.0,0.82,1002.0,Low,2025-06-01,0.0
+Sylhet,2025,July,Low,Low,15,0,29.0,0.82,1001.0,Low,2025-07-01,0.0
+Sylhet,2025,August,Low,Low,42,0,28.0,0.88,1005.0,Medium,2025-08-01,0.0
+Sylhet,2025,September,Low,Low,57,0,29.0,0.82,1005.0,Medium,2025-09-01,0.0
+Sylhet,2025,October,Low,Low,94,1,28.0,0.79,1010.0,Medium,2025-10-01,0.010638297872340425
+Sylhet,2025,November,Low,Low,130,1,25.0,0.74,1013.0,Medium,2025-11-01,0.007692307692307693
+Sylhet,2025,December,Low,Low,16,0,22.0,0.69,1015.0,Low,2025-12-01,0.0
+Khulna,2020,January,Medium,Very Low,13,0,18.0,0.85,1018.0,Low,2020-01-01,0.0
+Khulna,2020,February,Medium,Very Low,3,0,22.0,0.74,1015.0,Low,2020-02-01,0.0
+Khulna,2020,March,Medium,Very Low,0,0,26.0,0.65,1012.0,Very Low,2020-03-01,0.0
+Khulna,2020,April,Medium,Very Low,0,0,29.0,0.72,1009.0,Very Low,2020-04-01,0.0
+Khulna,2020,May,Medium,Very Low,0,0,29.0,0.76,1006.0,Very Low,2020-05-01,0.0
+Khulna,2020,June,Medium,Very Low,0,0,30.0,0.82,1003.0,Very Low,2020-06-01,0.0
+Khulna,2020,July,Medium,Very Low,0,0,30.0,0.85,1003.0,Very Low,2020-07-01,0.0
+Khulna,2020,August,Medium,Very Low,1,0,29.0,0.86,1000.0,Very Low,2020-08-01,0.0
+Khulna,2020,September,Medium,Very Low,2,0,30.0,0.84,1004.0,Low,2020-09-01,0.0
+Khulna,2020,October,Medium,Very Low,4,0,29.0,0.82,1006.0,Low,2020-10-01,0.0
+Khulna,2020,November,Medium,Very Low,14,0,25.0,0.72,1013.0,Low,2020-11-01,0.0
+Khulna,2020,December,Medium,Very Low,7,0,19.0,0.77,1014.0,Low,2020-12-01,0.0
+Khulna,2021,January,Medium,Very Low,1,0,20.0,0.74,1014.0,Very Low,2021-01-01,0.0
+Khulna,2021,February,Medium,Very Low,0,0,25.0,0.68,1011.0,Very Low,2021-02-01,0.0
+Khulna,2021,March,Medium,Very Low,0,0,27.0,0.72,1012.0,Very Low,2021-03-01,0.0
+Khulna,2021,April,Medium,Very Low,0,0,29.0,0.73,1006.0,Very Low,2021-04-01,0.0
+Khulna,2021,May,Medium,Very Low,2,0,30.0,0.76,1003.0,Low,2021-05-01,0.0
+Khulna,2021,June,Medium,Very Low,14,0,29.0,0.83,1000.0,Low,2021-06-01,0.0
+Khulna,2021,July,Medium,Very Low,113,1,28.0,0.87,1000.0,Medium,2021-07-01,0.008849557522123894
+Khulna,2021,August,Medium,Very Low,577,1,28.0,0.86,1002.0,High,2021-08-01,0.0017331022530329288
+Khulna,2021,September,Medium,Very Low,721,0,27.0,0.86,1004.0,High,2021-09-01,0.0
+Khulna,2021,October,Medium,Very Low,310,0,26.0,0.83,1009.0,Medium,2021-10-01,0.0
+Khulna,2021,November,Medium,Very Low,260,0,21.0,0.9,1013.0,Medium,2021-11-01,0.0
+Khulna,2021,December,Medium,Very Low,87,0,18.0,0.94,1015.0,Medium,2021-12-01,0.0
+Khulna,2022,January,Medium,Very Low,1,0,19.0,0.71,1019.0,Very Low,2022-01-01,0.0
+Khulna,2022,February,Medium,Very Low,1,0,23.0,0.64,1012.0,Very Low,2022-02-01,0.0
+Khulna,2022,March,Medium,Very Low,0,0,27.0,0.63,1009.0,Very Low,2022-03-01,0.0
+Khulna,2022,April,Medium,Very Low,4,0,30.0,0.68,1007.0,Low,2022-04-01,0.0
+Khulna,2022,May,Medium,Very Low,1,0,30.0,0.74,1004.0,Very Low,2022-05-01,0.0
+Khulna,2022,June,Medium,Very Low,8,0,31.0,0.79,1001.0,Low,2022-06-01,0.0
+Khulna,2022,July,Medium,Very Low,14,0,30.0,0.83,1000.0,Low,2022-07-01,0.0
+Khulna,2022,August,Medium,Very Low,43,0,30.0,0.83,1001.0,Medium,2022-08-01,0.0
+Khulna,2022,September,Medium,Very Low,556,0,29.0,0.82,1005.0,High,2022-09-01,0.0
+Khulna,2022,October,Medium,Very Low,1288,6,26.0,0.77,1011.0,High,2022-10-01,0.004658385093167702
+Khulna,2022,November,Medium,Very Low,1200,6,24.0,0.75,1012.0,High,2022-11-01,0.005
+Khulna,2022,December,Medium,Very Low,234,0,21.0,0.81,1013.0,Medium,2022-12-01,0.0
+Khulna,2023,January,Medium,Very Low,24,0,19.0,0.8,1015.0,Low,2023-01-01,0.0
+Khulna,2023,February,Medium,Very Low,6,0,22.0,0.8,1013.0,Low,2023-02-01,0.0
+Khulna,2023,March,Medium,Very Low,4,0,27.0,0.77,1009.0,Low,2023-03-01,0.0
+Khulna,2023,April,Medium,Very Low,4,0,30.0,0.65,1007.0,Low,2023-04-01,0.0
+Khulna,2023,May,Medium,Very Low,7,0,30.0,0.71,1006.0,Low,2023-05-01,0.0
+Khulna,2023,June,Medium,Very Low,117,0,31.0,0.8,1001.0,Medium,2023-06-01,0.0
+Khulna,2023,July,Medium,Very Low,324,6,30.0,0.83,1002.0,High,2023-07-01,0.018518518518518517
+Khulna,2023,August,Medium,Very Low,4509,9,29.0,0.86,1002.0,High,2023-08-01,0.001996007984031936
+Khulna,2023,September,Medium,Very Low,8210,10,30.0,0.85,1004.0,High,2023-09-01,0.001218026796589525
+Khulna,2023,October,Medium,Very Low,4509,13,28.0,0.78,1010.0,High,2023-10-01,0.0028831226436016855
+Khulna,2023,November,Medium,Very Low,7935,28,25.0,0.76,1013.0,High,2023-11-01,0.003528670447385003
+Khulna,2023,December,Medium,Very Low,1567,8,21.0,0.81,1015.0,High,2023-12-01,0.005105296745373325
+Khulna,2024,January,Medium,Very Low,80,0,18.0,0.82,1016.0,Medium,2024-01-01,0.0
+Khulna,2024,February,Medium,Very Low,6,0,22.0,0.73,1016.0,Low,2024-02-01,0.0
+Khulna,2024,March,Medium,Very Low,9,0,26.0,0.69,1013.0,Low,2024-03-01,0.0
+Khulna,2024,April,Medium,Very Low,15,0,32.0,0.65,1007.0,Low,2024-04-01,0.0
+Khulna,2024,May,Medium,Very Low,17,0,31.0,0.75,1004.0,Low,2024-05-01,0.0
+Khulna,2024,June,Medium,Very Low,65,0,31.0,0.8,1001.0,Medium,2024-06-01,0.0
+Khulna,2024,July,Medium,Very Low,130,0,30.0,0.87,1001.0,Medium,2024-07-01,0.0
+Khulna,2024,August,Medium,Very Low,488,3,29.0,0.89,1004.0,High,2024-08-01,0.006147540983606557
+Khulna,2024,September,Medium,Very Low,1564,4,30.0,0.84,1004.0,High,2024-09-01,0.0025575447570332483
+Khulna,2024,October,Medium,Very Low,2973,10,29.0,0.84,1009.0,High,2024-10-01,0.003363605785401951
+Khulna,2024,November,Medium,Very Low,3573,10,25.0,0.75,1013.0,High,2024-11-01,0.00279876854184159
+Khulna,2024,December,Medium,Very Low,1069,8,21.0,0.74,1015.0,High,2024-12-01,0.007483629560336763
+Khulna,2025,January,Medium,Very Low,66,0,19.0,0.8,1015.0,Medium,2025-01-01,0.0
+Khulna,2025,February,Medium,Very Low,22,2,24.0,0.74,1014.0,Medium,2025-02-01,0.09090909090909091
+Khulna,2025,March,Medium,Very Low,23,0,28.0,0.66,1010.0,Low,2025-03-01,0.0
+Khulna,2025,April,Medium,Very Low,16,0,30.0,0.75,1008.0,Low,2025-04-01,0.0
+Khulna,2025,May,Medium,Very Low,34,0,31.0,0.8,1004.0,Medium,2025-05-01,0.0
+Khulna,2025,June,Medium,Very Low,182,0,30.0,0.85,1001.0,Medium,2025-06-01,0.0
+Khulna,2025,July,Medium,Very Low,665,2,29.0,0.91,1000.0,High,2025-07-01,0.0030075187969924814
+Khulna,2025,August,Medium,Very Low,683,1,29.0,0.91,1004.0,High,2025-08-01,0.0014641288433382138
+Khulna,2025,September,Medium,Very Low,686,0,30.0,0.81,1004.0,High,2025-09-01,0.0
+Khulna,2025,October,Medium,Very Low,1173,3,29.0,0.82,1009.0,High,2025-10-01,0.0025575447570332483
+Khulna,2025,November,Medium,Very Low,1454,5,24.0,0.78,1013.0,High,2025-11-01,0.0034387895460797797
+Khulna,2025,December,Medium,Very Low,361,3,20.0,0.8,1016.0,Medium,2025-12-01,0.008310249307479225
+Rajshahi,2020,January,Medium,Medium,7,0,17.0,0.84,1018.0,Low,2020-01-01,0.0
+Rajshahi,2020,February,Medium,Medium,4,0,21.0,0.74,1015.0,Low,2020-02-01,0.0
+Rajshahi,2020,March,Medium,Medium,0,0,24.0,0.67,1012.0,Very Low,2020-03-01,0.0
+Rajshahi,2020,April,Medium,Medium,0,0,27.0,0.68,1009.0,Very Low,2020-04-01,0.0
+Rajshahi,2020,May,Medium,Medium,0,0,28.0,0.8,1005.0,Very Low,2020-05-01,0.0
+Rajshahi,2020,June,Medium,Medium,0,0,30.0,0.85,1002.0,Very Low,2020-06-01,0.0
+Rajshahi,2020,July,Medium,Medium,0,0,29.0,0.89,1002.0,Very Low,2020-07-01,0.0
+Rajshahi,2020,August,Medium,Medium,1,0,30.0,0.85,1000.0,Very Low,2020-08-01,0.0
+Rajshahi,2020,September,Medium,Medium,1,0,30.0,0.88,1004.0,Very Low,2020-09-01,0.0
+Rajshahi,2020,October,Medium,Medium,3,0,29.0,0.83,1007.0,Low,2020-10-01,0.0
+Rajshahi,2020,November,Medium,Medium,18,0,23.0,0.74,1014.0,Low,2020-11-01,0.0
+Rajshahi,2020,December,Medium,Medium,10,0,18.0,0.79,1015.0,Low,2020-12-01,0.0
+Rajshahi,2021,January,Medium,Medium,1,0,18.0,0.79,1014.0,Very Low,2021-01-01,0.0
+Rajshahi,2021,February,Medium,Medium,0,0,25.0,0.62,1010.0,Very Low,2021-02-01,0.0
+Rajshahi,2021,March,Medium,Medium,0,0,24.0,0.62,1011.0,Very Low,2021-03-01,0.0
+Rajshahi,2021,April,Medium,Medium,0,0,28.0,0.62,1007.0,Very Low,2021-04-01,0.0
+Rajshahi,2021,May,Medium,Medium,0,0,30.0,0.72,1004.0,Very Low,2021-05-01,0.0
+Rajshahi,2021,June,Medium,Medium,7,0,30.0,0.82,1000.0,Low,2021-06-01,0.0
+Rajshahi,2021,July,Medium,Medium,159,0,30.0,0.86,1000.0,Medium,2021-07-01,0.0
+Rajshahi,2021,August,Medium,Medium,531,1,30.0,0.86,1001.0,High,2021-08-01,0.0018832391713747645
+Rajshahi,2021,September,Medium,Medium,665,1,29.0,0.85,1005.0,High,2021-09-01,0.0015037593984962407
+Rajshahi,2021,October,Medium,Medium,397,0,27.0,0.83,1009.0,Medium,2021-10-01,0.0
+Rajshahi,2021,November,Medium,Medium,202,0,21.0,0.8,1013.0,Medium,2021-11-01,0.0
+Rajshahi,2021,December,Medium,Medium,72,0,20.0,0.82,1015.0,Medium,2021-12-01,0.0
+Rajshahi,2022,January,Medium,Medium,0,0,18.0,0.79,1019.0,Very Low,2022-01-01,0.0
+Rajshahi,2022,February,Medium,Medium,0,0,21.0,0.61,1013.0,Very Low,2022-02-01,0.0
+Rajshahi,2022,March,Medium,Medium,0,0,26.0,0.55,1010.0,Very Low,2022-03-01,0.0
+Rajshahi,2022,April,Medium,Medium,1,0,29.0,0.62,1007.0,Very Low,2022-04-01,0.0
+Rajshahi,2022,May,Medium,Medium,0,0,30.0,0.72,1004.0,Very Low,2022-05-01,0.0
+Rajshahi,2022,June,Medium,Medium,0,0,30.0,0.82,1000.0,Very Low,2022-06-01,0.0
+Rajshahi,2022,July,Medium,Medium,2,0,30.0,0.86,1000.0,Low,2022-07-01,0.0
+Rajshahi,2022,August,Medium,Medium,1,0,30.0,0.86,1001.0,Very Low,2022-08-01,0.0
+Rajshahi,2022,September,Medium,Medium,278,0,29.0,0.85,1005.0,Medium,2022-09-01,0.0
+Rajshahi,2022,October,Medium,Medium,963,2,25.0,0.81,1011.0,High,2022-10-01,0.0020768431983385254
+Rajshahi,2022,November,Medium,Medium,755,5,24.0,0.72,1013.0,High,2022-11-01,0.006622516556291391
+Rajshahi,2022,December,Medium,Medium,11,0,20.0,0.77,1014.0,Low,2022-12-01,0.0
+Rajshahi,2023,January,Medium,Medium,7,0,17.0,0.79,1016.0,Low,2023-01-01,0.0
+Rajshahi,2023,February,Medium,Medium,0,0,22.0,0.74,1013.0,Very Low,2023-02-01,0.0
+Rajshahi,2023,March,Medium,Medium,0,0,27.0,0.68,1009.0,Very Low,2023-03-01,0.0
+Rajshahi,2023,April,Medium,Medium,0,0,30.0,0.59,1008.0,Very Low,2023-04-01,0.0
+Rajshahi,2023,May,Medium,Medium,0,0,29.0,0.69,1007.0,Very Low,2023-05-01,0.0
+Rajshahi,2023,June,Medium,Medium,26,0,30.0,0.76,1002.0,Low,2023-06-01,0.0
+Rajshahi,2023,July,Medium,Medium,1023,0,31.0,0.8,1003.0,High,2023-07-01,0.0
+Rajshahi,2023,August,Medium,Medium,3107,9,30.0,0.82,1002.0,High,2023-08-01,0.002896684905053106
+Rajshahi,2023,September,Medium,Medium,4393,11,31.0,0.79,1005.0,High,2023-09-01,0.002503983610289096
+Rajshahi,2023,October,Medium,Medium,3107,5,28.0,0.79,1010.0,High,2023-10-01,0.0016092693916961698
+Rajshahi,2023,November,Medium,Medium,4270,21,25.0,0.71,1014.0,High,2023-11-01,0.004918032786885246
+Rajshahi,2023,December,Medium,Medium,757,3,21.0,0.78,1016.0,High,2023-12-01,0.003963011889035667
+Rajshahi,2024,January,Medium,Medium,30,0,16.0,0.83,1017.0,Medium,2024-01-01,0.0
+Rajshahi,2024,February,Medium,Medium,2,0,21.0,0.68,1016.0,Low,2024-02-01,0.0
+Rajshahi,2024,March,Medium,Medium,6,0,25.0,0.67,1012.0,Low,2024-03-01,0.0
+Rajshahi,2024,April,Medium,Medium,3,0,32.0,0.56,1006.0,Low,2024-04-01,0.0
+Rajshahi,2024,May,Medium,Medium,8,0,30.0,0.73,1004.0,Low,2024-05-01,0.0
+Rajshahi,2024,June,Medium,Medium,4,0,30.0,0.83,1001.0,Low,2024-06-01,0.0
+Rajshahi,2024,July,Medium,Medium,19,0,31.0,0.8,1000.0,Low,2024-07-01,0.0
+Rajshahi,2024,August,Medium,Medium,53,0,30.0,0.83,1004.0,Medium,2024-08-01,0.0
+Rajshahi,2024,September,Medium,Medium,501,0,30.0,0.81,1004.0,High,2024-09-01,0.0
+Rajshahi,2024,October,Medium,Medium,1138,2,28.0,0.83,1009.0,High,2024-10-01,0.0017574692442882249
+Rajshahi,2024,November,Medium,Medium,1634,4,25.0,0.73,1013.0,High,2024-11-01,0.0024479804161566705
+Rajshahi,2024,December,Medium,Medium,530,2,20.0,0.73,1015.0,High,2024-12-01,0.0037735849056603774
+Rajshahi,2025,January,Medium,Medium,42,0,19.0,0.77,1015.0,Medium,2025-01-01,0.0
+Rajshahi,2025,February,Medium,Medium,15,0,22.0,0.65,1014.0,Low,2025-02-01,0.0
+Rajshahi,2025,March,Medium,Medium,5,0,27.0,0.6,1010.0,Low,2025-03-01,0.0
+Rajshahi,2025,April,Medium,Medium,2,0,29.0,0.69,1008.0,Low,2025-04-01,0.0
+Rajshahi,2025,May,Medium,Medium,8,0,29.0,0.77,1004.0,Low,2025-05-01,0.0
+Rajshahi,2025,June,Medium,Medium,327,2,30.0,0.79,1001.0,Medium,2025-06-01,0.0061162079510703364
+Rajshahi,2025,July,Medium,Medium,1109,1,30.0,0.83,1000.0,High,2025-07-01,0.0009017132551848512
+Rajshahi,2025,August,Medium,Medium,786,3,29.0,0.84,1004.0,High,2025-08-01,0.003816793893129771
+Rajshahi,2025,September,Medium,Medium,892,4,30.0,0.81,1005.0,High,2025-09-01,0.004484304932735426
+Rajshahi,2025,October,Medium,Medium,1135,4,29.0,0.79,1010.0,High,2025-10-01,0.003524229074889868
+Rajshahi,2025,November,Medium,Medium,1138,6,23.0,0.75,1014.0,High,2025-11-01,0.005272407732864675
+Rajshahi,2025,December,Medium,Medium,285,2,20.0,0.72,1016.0,Medium,2025-12-01,0.007017543859649123
+Rangpur,2020,January,Very Low,Medium,0,0,17.0,0.86,1017.0,Very Low,2020-01-01,0.0
+Rangpur,2020,February,Very Low,Medium,0,0,21.0,0.78,1014.0,Very Low,2020-02-01,0.0
+Rangpur,2020,March,Very Low,Medium,0,0,25.0,0.67,1011.0,Very Low,2020-03-01,0.0
+Rangpur,2020,April,Very Low,Medium,0,0,28.0,0.68,1009.0,Very Low,2020-04-01,0.0
+Rangpur,2020,May,Very Low,Medium,0,0,29.0,0.78,1004.0,Very Low,2020-05-01,0.0
+Rangpur,2020,June,Very Low,Medium,0,0,30.0,0.83,1002.0,Very Low,2020-06-01,0.0
+Rangpur,2020,July,Very Low,Medium,1,0,30.0,0.85,1001.0,Very Low,2020-07-01,0.0
+Rangpur,2020,August,Very Low,Medium,3,0,30.0,0.83,1000.0,Low,2020-08-01,0.0
+Rangpur,2020,September,Very Low,Medium,0,0,29.0,0.86,1004.0,Very Low,2020-09-01,0.0
+Rangpur,2020,October,Very Low,Medium,10,0,29.0,0.84,1006.0,Low,2020-10-01,0.0
+Rangpur,2020,November,Very Low,Medium,27,0,23.0,0.76,1013.0,Low,2020-11-01,0.0
+Rangpur,2020,December,Very Low,Medium,4,0,18.0,0.8,1014.0,Low,2020-12-01,0.0
+Rangpur,2021,January,Very Low,Medium,0,0,18.0,0.79,1013.0,Very Low,2021-01-01,0.0
+Rangpur,2021,February,Very Low,Medium,0,0,24.0,0.64,1010.0,Very Low,2021-02-01,0.0
+Rangpur,2021,March,Very Low,Medium,1,0,24.0,0.72,1010.0,Very Low,2021-03-01,0.0
+Rangpur,2021,April,Very Low,Medium,0,0,29.0,0.66,1008.0,Very Low,2021-04-01,0.0
+Rangpur,2021,May,Very Low,Medium,2,0,30.0,0.73,1005.0,Low,2021-05-01,0.0
+Rangpur,2021,June,Very Low,Medium,12,0,30.0,0.78,1001.0,Low,2021-06-01,0.0
+Rangpur,2021,July,Very Low,Medium,90,0,30.0,0.8,1001.0,Medium,2021-07-01,0.0
+Rangpur,2021,August,Very Low,Medium,272,1,30.0,0.8,1002.0,Medium,2021-08-01,0.003676470588235294
+Rangpur,2021,September,Very Low,Medium,337,0,30.0,0.79,1005.0,Medium,2021-09-01,0.0
+Rangpur,2021,October,Very Low,Medium,215,0,29.0,0.74,1009.0,Medium,2021-10-01,0.0
+Rangpur,2021,November,Very Low,Medium,141,0,20.0,0.84,1013.0,Medium,2021-11-01,0.0
+Rangpur,2021,December,Very Low,Medium,48,0,17.0,0.93,1015.0,Medium,2021-12-01,0.0
+Rangpur,2022,January,Very Low,Medium,1,0,17.0,0.84,1018.0,Very Low,2022-01-01,0.0
+Rangpur,2022,February,Very Low,Medium,1,0,23.0,0.57,1013.0,Very Low,2022-02-01,0.0
+Rangpur,2022,March,Very Low,Medium,0,0,27.0,0.57,1010.0,Very Low,2022-03-01,0.0
+Rangpur,2022,April,Very Low,Medium,0,0,29.0,0.66,1008.0,Very Low,2022-04-01,0.0
+Rangpur,2022,May,Very Low,Medium,0,0,30.0,0.73,1005.0,Very Low,2022-05-01,0.0
+Rangpur,2022,June,Very Low,Medium,1,0,30.0,0.78,1001.0,Very Low,2022-06-01,0.0
+Rangpur,2022,July,Very Low,Medium,0,0,30.0,0.8,1001.0,Very Low,2022-07-01,0.0
+Rangpur,2022,August,Very Low,Medium,2,0,30.0,0.8,1002.0,Low,2022-08-01,0.0
+Rangpur,2022,September,Very Low,Medium,15,0,30.0,0.79,1005.0,Low,2022-09-01,0.0
+Rangpur,2022,October,Very Low,Medium,52,0,24.0,0.86,1010.0,Medium,2022-10-01,0.0
+Rangpur,2022,November,Very Low,Medium,88,0,22.0,0.78,1012.0,Medium,2022-11-01,0.0
+Rangpur,2022,December,Very Low,Medium,160,0,19.0,0.81,1013.0,Medium,2022-12-01,0.0
+Rangpur,2023,January,Very Low,Medium,2,0,16.0,0.84,1015.0,Low,2023-01-01,0.0
+Rangpur,2023,February,Very Low,Medium,0,0,21.0,0.75,1013.0,Very Low,2023-02-01,0.0
+Rangpur,2023,March,Very Low,Medium,0,0,27.0,0.66,1008.0,Very Low,2023-03-01,0.0
+Rangpur,2023,April,Very Low,Medium,0,0,29.0,0.59,1007.0,Very Low,2023-04-01,0.0
+Rangpur,2023,May,Very Low,Medium,0,0,29.0,0.72,1006.0,Very Low,2023-05-01,0.0
+Rangpur,2023,June,Very Low,Medium,27,0,31.0,0.76,1000.0,Low,2023-06-01,0.0
+Rangpur,2023,July,Very Low,Medium,812,4,31.0,0.82,1002.0,High,2023-07-01,0.0049261083743842365
+Rangpur,2023,August,Very Low,Medium,1724,4,30.0,0.84,1001.0,High,2023-08-01,0.002320185614849188
+Rangpur,2023,September,Very Low,Medium,1338,3,30.0,0.84,1004.0,High,2023-09-01,0.002242152466367713
+Rangpur,2023,October,Very Low,Medium,1724,0,27.0,0.83,1010.0,High,2023-10-01,0.0
+Rangpur,2023,November,Very Low,Medium,459,0,24.0,0.79,1014.0,High,2023-11-01,0.0
+Rangpur,2023,December,Very Low,Medium,145,0,19.0,0.83,1016.0,Medium,2023-12-01,0.0
+Rangpur,2024,January,Very Low,Medium,13,0,16.0,0.84,1017.0,Low,2024-01-01,0.0
+Rangpur,2024,February,Very Low,Medium,0,0,21.0,0.74,1016.0,Very Low,2024-02-01,0.0
+Rangpur,2024,March,Very Low,Medium,1,0,25.0,0.68,1012.0,Very Low,2024-03-01,0.0
+Rangpur,2024,April,Very Low,Medium,1,0,32.0,0.52,1005.0,Very Low,2024-04-01,0.0
+Rangpur,2024,May,Very Low,Medium,3,0,31.0,0.68,1004.0,Low,2024-05-01,0.0
+Rangpur,2024,June,Very Low,Medium,1,0,32.0,0.79,1000.0,Very Low,2024-06-01,0.0
+Rangpur,2024,July,Very Low,Medium,10,0,30.0,0.82,999.0,Low,2024-07-01,0.0
+Rangpur,2024,August,Very Low,Medium,20,0,29.0,0.85,1003.0,Low,2024-08-01,0.0
+Rangpur,2024,September,Very Low,Medium,311,0,30.0,0.84,1003.0,Medium,2024-09-01,0.0
+Rangpur,2024,October,Very Low,Medium,603,1,28.0,0.86,1009.0,High,2024-10-01,0.001658374792703151
+Rangpur,2024,November,Very Low,Medium,455,1,24.0,0.8,1013.0,Medium,2024-11-01,0.002197802197802198
+Rangpur,2024,December,Very Low,Medium,87,1,19.0,0.78,1014.0,Medium,2024-12-01,0.011494252873563218
+Rangpur,2025,January,Very Low,Medium,6,0,18.0,0.81,1015.0,Low,2025-01-01,0.0
+Rangpur,2025,February,Very Low,Medium,0,0,21.0,0.74,1014.0,Very Low,2025-02-01,0.0
+Rangpur,2025,March,Very Low,Medium,0,0,26.0,0.61,1010.0,Very Low,2025-03-01,0.0
+Rangpur,2025,April,Very Low,Medium,1,0,29.0,0.71,1008.0,Very Low,2025-04-01,0.0
+Rangpur,2025,May,Very Low,Medium,10,0,29.0,0.78,1004.0,Low,2025-05-01,0.0
+Rangpur,2025,June,Very Low,Medium,9,0,30.0,0.82,1000.0,Low,2025-06-01,0.0
+Rangpur,2025,July,Very Low,Medium,82,0,29.0,0.83,1000.0,Medium,2025-07-01,0.0
+Rangpur,2025,August,Very Low,Medium,95,0,29.0,0.86,1004.0,Medium,2025-08-01,0.0
+Rangpur,2025,September,Very Low,Medium,175,0,30.0,0.84,1005.0,Medium,2025-09-01,0.0
+Rangpur,2025,October,Very Low,Medium,420,0,28.0,0.83,1010.0,Medium,2025-10-01,0.0
+Rangpur,2025,November,Very Low,Medium,233,0,23.0,0.79,1013.0,Medium,2025-11-01,0.0
+Rangpur,2025,December,Very Low,Medium,59,0,20.0,0.75,1016.0,Low,2025-12-01,0.0
