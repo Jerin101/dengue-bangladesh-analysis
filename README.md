@@ -11,6 +11,9 @@ Link: https://data.mendeley.com/datasets/cgwjshkx5k
 ## Tools
 Python (pandas, matplotlib, seaborn), SQL (SQLite), Google Colab
 
+## Live Dashboard
+https://dengue-bangladesh-analysis-9nbqrfd7r7gsmg8dz6k8hc.streamlit.app/
+
 ## Key Findings
 - Dhaka alone accounts for 55.4% of all recorded dengue cases (344,039 of 621,309).
 - Dhaka has the highest death rate (0.63%), followed by Barishal (0.44%). Sylhet has the lowest (0.09%).
